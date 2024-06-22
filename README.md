@@ -26,7 +26,10 @@ This MTech Data Science mini project involves web scraping to extract detailed d
 Install the necessary libraries using pip:
 ```bash
 pip install beautifulsoup4
+```
+```bash
 pip install requests
+```
 
 ### Steps
 1. Clone the repository:
