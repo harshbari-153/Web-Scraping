@@ -51,4 +51,5 @@ The script scrapes data for over 980 mobile phones from Flipkart, capturing 14 d
 
 ### Author
 Harsh Bari
+
 Email: bari.harsh2001@gmail.com
